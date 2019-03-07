@@ -5,7 +5,7 @@
   "main": "assignment11.js",
  
   "scripts": {
-    "start": "node assignment11.js"
+    "start": "node ./assignment11.js"
 },
   "author": "Haythem Jlassi",
   "license": "ISC",
