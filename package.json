@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Assignment11 project",
   "main": "assignment11.js",
-  "scripts": {"start" : "assignment11/assignment11.js"},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "author": "Haythem Jlassi",
   "license": "ISC",
   "dependencies": {
