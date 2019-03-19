@@ -1,17 +1,19 @@
 {
-  "name": "assignment11.js",
+  "name": "Final Project Chat Room",
   "version": "1.0.0",
-  "description": "Assignment11 project",
-  "main": "assignment11.js",
- 
+  "description": "Chat Room app",
+  "main": "app.js",
   "scripts": {
-    "start": "node ./assignment11.js"
-},
-  "author": "Haythem Jlassi",
-  "license": "ISC",
-  "dependencies": {
-    "ejs": "^2.6.1",
-    "express": "^4.16.4"
+    "start": "node /app.js"
   },
-  "devDependencies": {}
+  "keywords": [
+    "chat",
+    "room"
+  ],
+  "author": "Haythem Jlassi",
+  "license": "",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.7.2"
+  }
 }
